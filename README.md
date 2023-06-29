@@ -24,3 +24,7 @@ Aqui está uma descrição básica de como um rastreador de despesas pode funcio
 
     No geral, um rastreador de despesas é uma ferramenta flexível que pode ser adaptada às necessidades individuais, permitindo que os usuários tenham uma visão clara de seus gastos e tomem decisões financeiras mais esperadas.
      
+
+     Figma do projeto:
+
+     https://www.figma.com/file/pAcLYKKNfdQCcnUpXZcmwL/Projeto-Gerenciador-de-Despezas?type=design&node-id=0%3A1&mode=design&t=Ms45jRlaSAQiu0g1-1
